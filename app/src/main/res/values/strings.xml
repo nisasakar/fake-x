@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FakeX</string>
+    <string name="close">Kapat</string>
+    <string name="error_title">Hata</string>
+    <string name="empty_content_text">İşleminizi gerçekleştiremedik.\nLütfen daha sonra tekrar dene</string>
+    <string name="post">Gönderi</string>
+    <string name="post_not_found">Gönderiye ulaşılamadı</string>
+</resources>
